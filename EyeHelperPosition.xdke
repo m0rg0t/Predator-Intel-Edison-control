@@ -15,8 +15,8 @@
         "name": "EyeHelperPosition.xdk"
       },
       "EyeHelperPosition.xdke": {
-        "previousModTime": 1467109927682,
-        "modified": 1467109927682,
+        "previousModTime": 1467931777823,
+        "modified": 1467931777823,
         "seen": true,
         "name": "EyeHelperPosition.xdke"
       },
@@ -27,14 +27,14 @@
         "name": "lcd.js"
       },
       "main.js": {
-        "previousModTime": 1467109917406,
-        "modified": 1467109917406,
+        "previousModTime": 1467931899645,
+        "modified": 1467931899645,
         "seen": true,
         "name": "main.js"
       },
       "package.json": {
-        "previousModTime": 1447546762294,
-        "modified": 1447546762294,
+        "previousModTime": 1467732744802,
+        "modified": 1467732744802,
         "seen": true,
         "name": "package.json"
       },
@@ -69,8 +69,8 @@
         "name": "client/index.css"
       },
       "client/index.html": {
-        "previousModTime": 1466755744805,
-        "modified": 1466755744805,
+        "previousModTime": 1467703436000,
+        "modified": 1467703436000,
         "seen": true,
         "name": "client/index.html"
       },
@@ -4657,9 +4657,307 @@
         "modified": 1467066890662,
         "seen": true,
         "name": "client/css/index.css"
+      },
+      ".gitattributes": {
+        "previousModTime": 1467125913146,
+        "modified": 1467125913146,
+        "seen": true,
+        "name": ".gitattributes"
+      },
+      ".gitignore": {
+        "previousModTime": 1467125913247,
+        "modified": 1467125913247,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "EyeHelperPosition.zip": {
+        "previousModTime": 1467113361615,
+        "modified": 1467113361615,
+        "seen": true,
+        "name": "EyeHelperPosition.zip"
+      },
+      "client/sounds/Automatic_gun_mod.mp3": {
+        "previousModTime": 1467123950516,
+        "modified": 1467123950516,
+        "seen": true,
+        "name": "client/sounds/Automatic_gun_mod.mp3"
+      },
+      "client/sounds/Predator light sensor - less then 10 lumens.mp3": {
+        "previousModTime": 1467124356872,
+        "modified": 1467124356872,
+        "seen": true,
+        "name": "client/sounds/Predator light sensor - less then 10 lumens.mp3"
+      },
+      "client/sounds/Predator light sensor - more then 100 lumens.mp3": {
+        "previousModTime": 1467124288967,
+        "modified": 1467124288967,
+        "seen": true,
+        "name": "client/sounds/Predator light sensor - more then 100 lumens.mp3"
+      },
+      "client/sounds/Predator light sensor - more then 150 lumens.mp3": {
+        "previousModTime": 1467124307905,
+        "modified": 1467124307905,
+        "seen": true,
+        "name": "client/sounds/Predator light sensor - more then 150 lumens.mp3"
+      },
+      "client/sounds/Predator light sensor - more then 20 lumens.mp3": {
+        "previousModTime": 1467124233796,
+        "modified": 1467124233796,
+        "seen": true,
+        "name": "client/sounds/Predator light sensor - more then 20 lumens.mp3"
+      },
+      "client/sounds/Predator light sensor - more then 50 lumens.mp3": {
+        "previousModTime": 1467124251782,
+        "modified": 1467124251782,
+        "seen": true,
+        "name": "client/sounds/Predator light sensor - more then 50 lumens.mp3"
+      },
+      "client/sounds/Predator light sensor - more then 75 lumens.mp3": {
+        "previousModTime": 1467124273477,
+        "modified": 1467124273477,
+        "seen": true,
+        "name": "client/sounds/Predator light sensor - more then 75 lumens.mp3"
+      },
+      "client/sounds/Predator temperature is more then 20 degrees.mp3": {
+        "previousModTime": 1467124107396,
+        "modified": 1467124107396,
+        "seen": true,
+        "name": "client/sounds/Predator temperature is more then 20 degrees.mp3"
+      },
+      "client/sounds/Predator temperature is more then 25 degrees.mp3": {
+        "previousModTime": 1467124123928,
+        "modified": 1467124123928,
+        "seen": true,
+        "name": "client/sounds/Predator temperature is more then 25 degrees.mp3"
+      },
+      "client/sounds/Predator temperature is more then 30 degrees.mp3": {
+        "previousModTime": 1467124144401,
+        "modified": 1467124144401,
+        "seen": true,
+        "name": "client/sounds/Predator temperature is more then 30 degrees.mp3"
+      },
+      "client/sounds/Predator temperature is more then 35 degrees.mp3": {
+        "previousModTime": 1467124158843,
+        "modified": 1467124158843,
+        "seen": true,
+        "name": "client/sounds/Predator temperature is more then 35 degrees.mp3"
+      },
+      "client/sounds/Predator temperature is more then 40 degrees.mp3": {
+        "previousModTime": 1467124183216,
+        "modified": 1467124183216,
+        "seen": true,
+        "name": "client/sounds/Predator temperature is more then 40 degrees.mp3"
+      },
+      "client/sounds/Warning.mp3": {
+        "previousModTime": 1467124068481,
+        "modified": 1467124068481,
+        "seen": true,
+        "name": "client/sounds/Warning.mp3"
+      },
+      "client/sounds/gun_is_disabled.mp3": {
+        "previousModTime": 1467123796137,
+        "modified": 1467123796137,
+        "seen": true,
+        "name": "client/sounds/gun_is_disabled.mp3"
+      },
+      "client/sounds/gun_mode_0.mp3": {
+        "previousModTime": 1467123824007,
+        "modified": 1467123824007,
+        "seen": true,
+        "name": "client/sounds/gun_mode_0.mp3"
+      },
+      "client/sounds/gun_mode_1.mp3": {
+        "previousModTime": 1467123842149,
+        "modified": 1467123842149,
+        "seen": true,
+        "name": "client/sounds/gun_mode_1.mp3"
+      },
+      "client/sounds/gun_mode_2.mp3": {
+        "previousModTime": 1467123861153,
+        "modified": 1467123861153,
+        "seen": true,
+        "name": "client/sounds/gun_mode_2.mp3"
+      },
+      "client/sounds/gun_mode_3.mp3": {
+        "previousModTime": 1467123877971,
+        "modified": 1467123877971,
+        "seen": true,
+        "name": "client/sounds/gun_mode_3.mp3"
+      },
+      "client/sounds/gun_mode_4.mp3": {
+        "previousModTime": 1467123895149,
+        "modified": 1467123895149,
+        "seen": true,
+        "name": "client/sounds/gun_mode_4.mp3"
+      },
+      "client/sounds/initializing.mp3": {
+        "previousModTime": 1467124038984,
+        "modified": 1467124038984,
+        "seen": true,
+        "name": "client/sounds/initializing.mp3"
+      },
+      "client/sounds/manual_control_for_gun.mp3": {
+        "previousModTime": 1467123984887,
+        "modified": 1467123984887,
+        "seen": true,
+        "name": "client/sounds/manual_control_for_gun.mp3"
+      },
+      "client/sounds/predator Current summary.mp3": {
+        "previousModTime": 1467124404044,
+        "modified": 1467124404044,
+        "seen": true,
+        "name": "client/sounds/predator Current summary.mp3"
+      },
+      "client/sounds/music/Alan Silvestri - Predator OST, End Credits.mp3": {
+        "previousModTime": 1464699794909,
+        "modified": 1464699794909,
+        "seen": true,
+        "name": "client/sounds/music/Alan Silvestri - Predator OST, End Credits.mp3"
+      },
+      "client/sounds/music/Aliens vs Predator 2010 OST - The Predator.mp3": {
+        "previousModTime": 1464700770293,
+        "modified": 1464700770293,
+        "seen": true,
+        "name": "client/sounds/music/Aliens vs Predator 2010 OST - The Predator.mp3"
+      },
+      "client/sounds/music/Predator - Sound of the voice.mp3": {
+        "previousModTime": 1464699792649,
+        "modified": 1464699792649,
+        "seen": true,
+        "name": "client/sounds/music/Predator - Sound of the voice.mp3"
+      },
+      "client/sounds/music/Predator OST [Alan Silvestri] (1987) - Guttural sounds (OST Predator).mp3": {
+        "previousModTime": 1464700900828,
+        "modified": 1464700900828,
+        "seen": true,
+        "name": "client/sounds/music/Predator OST [Alan Silvestri] (1987) - Guttural sounds (OST Predator).mp3"
+      },
+      "client/sounds/music/Predator OST [Alan Silvestri] (1987) - Mind.mp3": {
+        "previousModTime": 1464700840915,
+        "modified": 1464700840915,
+        "seen": true,
+        "name": "client/sounds/music/Predator OST [Alan Silvestri] (1987) - Mind.mp3"
+      },
+      "client/sounds/music/Predator OST [Alan Silvestri] (1987) - The Trap.mp3": {
+        "previousModTime": 1464700930415,
+        "modified": 1464700930415,
+        "seen": true,
+        "name": "client/sounds/music/Predator OST [Alan Silvestri] (1987) - The Trap.mp3"
+      },
+      "client/sounds/music/Predator OST - Mind.mp3": {
+        "previousModTime": 1464700840915,
+        "modified": 1464700840915,
+        "seen": true,
+        "name": "client/sounds/music/Predator OST - Mind.mp3"
+      },
+      "client/css/bootstrap-theme.min.css": {
+        "previousModTime": 1435165402000,
+        "modified": 1435165402000,
+        "seen": true,
+        "name": "client/css/bootstrap-theme.min.css"
+      },
+      "client/css/bootstrap.min.css": {
+        "previousModTime": 1435165402000,
+        "modified": 1435165402000,
+        "seen": true,
+        "name": "client/css/bootstrap.min.css"
+      },
+      "client/css/style.css": {
+        "previousModTime": 1435165402000,
+        "modified": 1435165402000,
+        "seen": true,
+        "name": "client/css/style.css"
+      },
+      "client/fonts/glyphicons-halflings-regular.eot": {
+        "previousModTime": 1435165402000,
+        "modified": 1435165402000,
+        "seen": true,
+        "name": "client/fonts/glyphicons-halflings-regular.eot"
+      },
+      "client/fonts/glyphicons-halflings-regular.svg": {
+        "previousModTime": 1435165402000,
+        "modified": 1435165402000,
+        "seen": true,
+        "name": "client/fonts/glyphicons-halflings-regular.svg"
+      },
+      "client/fonts/glyphicons-halflings-regular.ttf": {
+        "previousModTime": 1435165402000,
+        "modified": 1435165402000,
+        "seen": true,
+        "name": "client/fonts/glyphicons-halflings-regular.ttf"
+      },
+      "client/fonts/glyphicons-halflings-regular.woff": {
+        "previousModTime": 1435165402000,
+        "modified": 1435165402000,
+        "seen": true,
+        "name": "client/fonts/glyphicons-halflings-regular.woff"
+      },
+      "client/fonts/glyphicons-halflings-regular.woff2": {
+        "previousModTime": 1435165402000,
+        "modified": 1435165402000,
+        "seen": true,
+        "name": "client/fonts/glyphicons-halflings-regular.woff2"
+      },
+      "client/js/bootstrap.min.js": {
+        "previousModTime": 1435165402000,
+        "modified": 1435165402000,
+        "seen": true,
+        "name": "client/js/bootstrap.min.js"
+      },
+      "client/js/jquery.min.js": {
+        "previousModTime": 1435165402000,
+        "modified": 1435165402000,
+        "seen": true,
+        "name": "client/js/jquery.min.js"
+      },
+      "client/js/scripts.js": {
+        "previousModTime": 1435165402000,
+        "modified": 1435165402000,
+        "seen": true,
+        "name": "client/js/scripts.js"
+      },
+      "client/views/index.ejs": {
+        "previousModTime": 1467930053135,
+        "modified": 1467930053135,
+        "seen": true,
+        "name": "client/views/index.ejs"
+      },
+      "client/js/main.js": {
+        "previousModTime": 1467929974697,
+        "modified": 1467929974697,
+        "seen": true,
+        "name": "client/js/main.js"
+      },
+      "client/js/socket.io.js": {
+        "previousModTime": 1467748507651,
+        "modified": 1467748507651,
+        "seen": true,
+        "name": "client/js/socket.io.js"
+      },
+      "client/index_old.html": {
+        "previousModTime": 1467703436000,
+        "modified": 1467703436000,
+        "seen": true,
+        "name": "client/index_old.html"
+      },
+      "client/images/a1.jpg": {
+        "previousModTime": 1467907206434,
+        "modified": 1467907206434,
+        "seen": true,
+        "name": "client/images/a1.jpg"
+      },
+      "client/sounds/music/bg1.mp3": {
+        "previousModTime": 1467926009353,
+        "modified": 1467926009353,
+        "seen": true,
+        "name": "client/sounds/music/bg1.mp3"
       }
     },
-    "boardFileStatus": {}
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1467931904667
+      }
+    }
   },
   "editorTab": {
     "currentEditorMode": 0
