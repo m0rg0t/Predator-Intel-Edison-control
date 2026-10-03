@@ -1,3 +1,4 @@
+var sensorAnnouncements = require('./sensorAnnouncements');
 var express = require('express');
 var app = express();
 var path = require('path');
@@ -491,24 +492,10 @@ io.on('connection', function(socket){
     
     
   socket.on('lightButton', function(msg){
-      if (lightVal<20) {
-        playSong( "client/sounds/Predator light sensor - less then 10 lumens.mp3");
+      var sound = sensorAnnouncements.lightSound(lightVal);
+      if (sound !== null) {
+          playSong(sound);
       }
-      if ((temperatureVal>=20) && (temperatureVal<50)) {
-         playSong( "client/sounds/Predator light sensor - more then 20 lumens.mp3"); 
-      }
-      if ((temperatureVal>=50) && (temperatureVal<75)) {
-          playSong( "client/sounds/Predator light sensor - more then 50 lumens.mp3");
-      }
-      if ((temperatureVal>=75) && (temperatureVal<100)) {
-          playSong( "client/sounds/Predator light sensor - more then 75 lumens.mp3");
-      }
-      if ((temperatureVal>=100) && (temperatureVal<150)) {
-          playSong( "client/sounds/Predator light sensor - more then 100 lumens.mp3");
-      }
-      if ((temperatureVal>=150)) {
-          playSong( "client/sounds/Predator light sensor - more then 150 lumens.mp3");
-      }      
   });
     
 });
